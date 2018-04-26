@@ -1,2 +1,13 @@
 # pyecharts-javascripthon-api-service
-Bring pyecharts-javascripthon to python 2.7 and 3.4 users
+
+Bring pyecharts-javascripthon to python 2.7 and 3.4 users.
+
+
+## Requirements
+
+Python 3.6
+
+
+## License
+
+MIT
